@@ -1,0 +1,1 @@
+<?php echo "$year/$month/$day"; ?>
